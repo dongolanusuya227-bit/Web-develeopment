@@ -1,0 +1,87 @@
+#enter{
+    margin-left: 20cm;
+    margin-bottom: 1.3cm;
+   padding-left: 200px;
+   padding-right: 200px;
+padding-top: 30px;
+
+
+}
+body{
+    background-color: brown;
+}
+nav{
+    background-color: lightcoral;
+}
+h2{
+    color: rgba(125, 14, 14, 0.811);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 900;
+    font-size: xx-large;
+    margin-left: 30px;
+    
+}
+.align{
+    display: flex;
+    justify-content: end;
+    gap: 20px;
+    
+}
+.c{
+    color: rgb(28, 3, 3);
+}
+.pic{
+    width: 7cm;
+    height: 9cm;
+}
+#row1{
+    display: flex;
+    gap: 100px;
+    margin-left: 5cm;
+}
+#row2{
+    display: flex;
+    gap: 100px;
+    margin-left:5cm ;
+}
+#row3{
+    display: flex;
+    gap: 100px;
+    margin-left:5cm ;
+}
+#item1{
+    background-color: beige;
+    
+}
+
+#item2{
+    background-color: beige;
+}
+#item3{
+    background-color: beige;
+}
+#item4{
+    background-color: beige;
+}
+#item5{
+    background-color: beige;
+}
+#item6{
+    background-color: beige;
+}
+#item7{
+    background-color: beige;
+}
+#item8{
+    background-color: beige;
+}#item9{
+    background-color: beige;
+}
+
+.Price{
+    color: red;
+}
+h4{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 185px;
+}
